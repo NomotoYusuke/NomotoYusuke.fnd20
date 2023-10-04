@@ -1,0 +1,60 @@
+/* まず、style.cssにこのルールを書き入れてください。 */
+body {
+  font-family:monospace;
+  text-align: center;
+}
+
+.quizzes-container {
+  width: 100%x;
+  margin: 30px auto;
+}
+
+.quiz-container {
+  padding-bottom: 10px;
+}
+
+.btn {
+	display: block;
+	text-align: center;
+	text-decoration: none;
+	width: 20;
+	margin: auto;
+	padding: 1rem;
+	font-weight: bold;
+	border: 2px solid #fff;
+	color: #27acd9;
+	transition: 0.5s;
+}
+button.btn:hover {
+	color: #fff;
+	background: #27acd9;
+}
+
+.keka{
+    color: red;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+h1{
+  font-size: 20px;
+}
+
+.quizzes-container{
+    background: gray;
+    margin: 50px auto;
+}
+
+.result{
+    font-size: 15px;
+}
+.syoukai{
+    font-size: 16px;
+}
+
+.event{
+  font-size:  18px;
+  color: green;
+  font-weight: bold;
+}
+  /* ここにルールを足していきましょう。*/
