@@ -13,7 +13,7 @@ function question(){
     } else if (quiz_1.answer.value === 'b') {
         alert("💮正解㊗ てんとう虫は何も悪くないです！");
     } else if (quiz_1.answer.value === 'c') {
-        alert("❌不正解❌ こいつのせいで葉が枝がどんどんダメになりました。気持ち悪い虫です");
+        alert("❌不正解❌ 今も戦っています。気持ち悪い虫です");
     } else{
         alert("答えを選択してください");
     }
